@@ -1,0 +1,14 @@
+.Buttons {
+    width: 40%;
+    height: 100%;
+    font-size: 1.3rem;
+    outline: none;
+    border: 0.5px solid grey;
+    border-radius: 5px;
+    background-color: rgb(33, 33, 33);
+    cursor: pointer;
+}
+
+.Buttons:hover {
+    border: 0.5px solid white;
+}

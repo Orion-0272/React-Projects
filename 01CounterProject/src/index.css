@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+    font-family: "Nato Sans", sans-serif;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(33, 33, 33);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
